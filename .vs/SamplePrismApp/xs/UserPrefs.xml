@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{714B61B7-B456-4ADC-90E5-980E83BD2400}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.SamplePrismApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-001C68D211B8C02E" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/SELVATA/Projects/SamplePrismApp/SamplePrismApp/AppStartUp.cs" relfile="SamplePrismApp/AppStartUp.cs" line="47" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SamplePrismApp/AppStartUp.cs">
+    <Files>
+      <File FileName="SamplePrismApp.Testing/ViewModels/MainPageViewModelTest.cs" />
+      <File FileName="SamplePrismApp/MauiProgram.cs" />
+      <File FileName="SamplePrismApp/AppStartUp.cs" Line="34" Column="14" />
+      <File FileName="../../.nuget/packages/prism.maui/9.0.401-pre/readme.txt" />
+      <File FileName="../../.nuget/packages/prism.dryioc.maui/9.0.401-pre/readme.txt" />
+      <File FileName="../../.nuget/packages/prism.maui/9.0.271-pre/readme.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SamplePrismApp" expanded="True">
+            <Node name="SamplePrismApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="net8.0-android" expanded="True">
+                  <Node name="PackageDependencies" expanded="True">
+                    <Node name="Prism.Maui" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="SamplePrismApp.Testing" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="SamplePrismApp.ViewModel" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SamplePrismApp.Testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.113" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008030-001C68D211B8C02E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
